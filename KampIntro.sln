@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMeto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMyList", "CustomMyList\CustomMyList.csproj", "{228A7287-0672-4B13-81D5-F9884835B184}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Ticaret", "E-Ticaret\E-Ticaret.csproj", "{5CDFFAB0-7C23-4CE1-82B8-BE18D657638B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{228A7287-0672-4B13-81D5-F9884835B184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228A7287-0672-4B13-81D5-F9884835B184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228A7287-0672-4B13-81D5-F9884835B184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDFFAB0-7C23-4CE1-82B8-BE18D657638B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDFFAB0-7C23-4CE1-82B8-BE18D657638B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDFFAB0-7C23-4CE1-82B8-BE18D657638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDFFAB0-7C23-4CE1-82B8-BE18D657638B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
