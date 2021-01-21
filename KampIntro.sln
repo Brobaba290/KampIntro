@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{0F0AFFE8-2764-4C16-9F2A-310DA2FC04DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C6C89D2B-213D-46D1-B4C8-EB673B24CABC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C6C89D2B-213D-46D1-B4C8-EB673B24CABC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{27A61F0C-6F47-42EE-A684-839486F2EFB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{27A61F0C-6F47-42EE-A684-839486F2EFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMyList", "CustomMyList\CustomMyList.csproj", "{228A7287-0672-4B13-81D5-F9884835B184}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{27A61F0C-6F47-42EE-A684-839486F2EFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27A61F0C-6F47-42EE-A684-839486F2EFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27A61F0C-6F47-42EE-A684-839486F2EFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228A7287-0672-4B13-81D5-F9884835B184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228A7287-0672-4B13-81D5-F9884835B184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228A7287-0672-4B13-81D5-F9884835B184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228A7287-0672-4B13-81D5-F9884835B184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
